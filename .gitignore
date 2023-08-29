@@ -1,0 +1,20 @@
+# Compiled class files
+target/
+
+# IDE specific files
+.idea/
+*.iml
+
+# Maven specific files
+mvnw
+mvnw.cmd
+.mvn/
+
+# Log files
+*.log
+
+# IntelliJ IDEA specific files
+*.ipr
+*.iws
+
+case_01/assests/fontawesome-free-6.4.2-web
